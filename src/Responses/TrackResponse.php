@@ -3,9 +3,9 @@
 namespace Pingdelivery\Responses;
 
 
-class CreateResponse
+class TrackResponse
 {
-    public $result;
-    public $trackingId;
+    public $code;
+    public $subCode;
     public $comment;
 }

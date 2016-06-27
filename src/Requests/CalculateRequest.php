@@ -3,7 +3,7 @@
 namespace Pingdelivery\Requests;
 
 
-class CreateRequest
+class CalculateRequest
 {
     public $number;
     public $senderNumber;
