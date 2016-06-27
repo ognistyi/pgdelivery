@@ -1,0 +1,12 @@
+{
+    "name": "webdevgroup/pingdelivery-common",
+    "description": "Generic request-response pair for pingdelivery",
+    "require": {
+        "netresearch/jsonmapper": "^0.11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pingdelivery": "src"
+        }
+    }
+}
